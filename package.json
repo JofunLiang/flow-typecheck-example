@@ -1,5 +1,5 @@
 {
-  "name": "flow_demo",
+  "name": "flow-typecheck-example",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -29,6 +29,5 @@
     "flow-bin": "^0.122.0",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
-  },
-  "dependencies": {}
+  }
 }
